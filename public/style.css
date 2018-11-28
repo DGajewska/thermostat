@@ -1,0 +1,57 @@
+.thermostat_background {
+  background-color: #34495E;
+  padding: 10px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  height: 200px;
+  width: 160px;
+}
+
+.heading {
+  color: white;
+  height: 25px;
+}
+
+.display {
+  padding: 10px;
+  background-color: #D5DBDB;
+  height: 25px;
+  width: 140px;
+}
+
+.energy_usage {
+  font-size: 12pt;
+  color: white;
+  text-align: center;
+}
+
+.button_padding {
+  padding-top: 10px;
+  padding-bottom: 8px;
+  padding-left: 25px;
+}
+.button {
+  background-color: #85C1E9;
+  border: solid;
+  border-color: #1F618D;
+  border-width: 1px;
+  color: white;
+  width: 50px;
+  cursor: pointer;
+}
+
+.psm_text {
+  font-size: 12pt;
+  color: white;
+  text-align: center;
+}
+
+.button_grey {
+  background-color: #797D7F;
+  border: solid;
+  border-color: #424949;
+  border-width: 1px;
+  color: white;
+  width: 50px;
+  cursor: pointer;
+}
